@@ -1,2 +1,0 @@
-# PTTKHDT
-web PPC
